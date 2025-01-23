@@ -35,7 +35,7 @@
         <CardLink
          icon="bi:chevron-right"
          icon-end
-         to="/"
+         to="/introduction/self"
          stretched-link
         >
          Learn more
@@ -65,7 +65,7 @@
         <CardLink
          icon="bi:chevron-right"
          icon-end
-         to="/"
+         to="/introduction/hobby"
          stretched-link
         >
          Learn more
@@ -97,7 +97,7 @@
         <CardLink
          icon="bi:chevron-right"
          icon-end
-         to="/"
+         to="/introduction/future"
          stretched-link
         >
          Learn more
