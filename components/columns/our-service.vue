@@ -5,7 +5,7 @@
      justify-content="start"
     >
      <b-p text-color="body-tertiary">
-      <b>Our services</b>
+      <b>Table of Contents</b>
      </b-p>
      <b-p headings="3">
       Elevate your services with our comprehensive solutions.
@@ -24,10 +24,10 @@
    
        <CardBody>
         <CardTitle>
-         Make a significant impact
+         Introduction of oneself
         </CardTitle>
         <CardText text-color="secondary">
-         We are committed to providing opportunities to those who have demonstrated their ability to execute effectively.
+         自己紹介についてのページです。
         </CardText>
        </CardBody>
    
@@ -55,9 +55,9 @@
        />
    
        <CardBody>
-        <CardTitle>Guides</CardTitle>
+        <CardTitle>Hobby</CardTitle>
         <CardText text-color="secondary">
-         Whether you're a startup or a global enterprise, learn how to integrate with our solutions.
+         趣味についてのページです。
         </CardText>
        </CardBody>
    
@@ -86,10 +86,10 @@
    
        <CardBody>
         <CardTitle>
-         Explore the Tools
+         Dreams for the future
         </CardTitle>
         <CardText text-color="secondary">
-         Quickly access sample components and copy-paste codes.
+         将来の夢についてのページです。
         </CardText>
        </CardBody>
    

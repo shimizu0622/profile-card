@@ -5,7 +5,7 @@
       display-headings="3"
       margin="b-5"
      >
-      Welcome to
+      portforio site
       <Typed
        class="text-primary fw-semibold"
        :strings="['innovation.', 'excellence.', 'success.']"
@@ -15,7 +15,7 @@
        :back-delay="1500"
       />
       <br />
-      your trusted business partner
+      Introducing myself and my future goals
      </b-h>
     </HeroRow>
     <HeroRow
@@ -23,7 +23,7 @@
      justify-content="start"
     >
      <p class="lead">
-      We provide top-notch solutions to help your business thrive in today's competitive market. Our team is dedicated to delivering excellence and driving success for our clients.
+      私のポートフォリオサイトにお越しいただき、ありがとうございます。 このサイトでは、私自身についてと将来の目標について紹介しています。
      </p>
     </HeroRow>
    </template>

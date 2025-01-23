@@ -4,9 +4,9 @@
      text-alignment="center"
      margin="y-3"
     >
-     <b-p><b>Success Stories</b></b-p>
+     <b-p><b>Addendum</b></b-p>
      <b-div headings="2">
-      Discover how our platform is enabling teams to streamline their workflows and enhance productivity
+      自己紹介の追記です
      </b-div>
     </HeroRow>
    
