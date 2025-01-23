@@ -8,14 +8,14 @@
        padding="x-md-3"
       >
        <b-icon
-        icon="bi:star-fill"
+        icon="bi-currency-dollar"
         text-color="warning"
         font-size="1"
        />
        <p>
         <b>
-         4.82 out of 5 starts
-        </b><br /> from 83 reviews
+         2023年のドローン市場
+        </b><br /> 3854億円
        </p>
       </b-div>
      </Col>
@@ -27,14 +27,14 @@
        padding="x-md-3"
       >
        <b-icon
-        icon="bi:chat-quote"
+        icon="bi-currency-dollar"
         text-color="warning"
         font-size="1"
        />
        <p>
         <b>
-         Loved by 95% of users
-        </b><br /> based on 150 feedbacks
+         2024年のドローン市場
+        </b><br />4684億円
        </p>
       </b-div>
      </Col>
@@ -47,14 +47,14 @@
        padding="x-md-3"
       >
        <b-icon
-        icon="bi:cart"
+        icon="bi-currency-dollar"
         text-color="warning"
         font-size="1"
        />
        <p>
         <b>
-         Awarded Best SaaS Product
-        </b><br /> in 2023
+         2025年のドローン市場
+        </b><br /> 9054億円
        </p>
       </b-div>
      </Col>

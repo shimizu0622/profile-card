@@ -18,8 +18,9 @@
        class="hover:-un-translate-y-0.5"
       >
        <CardImgTop
-        src="/unsplash/image/500x280/arlington-research-nFLmPAf9dVc-unsplash.jpg"
+        src="/unsplash/image/500x280/profile.jpg"
         alt="Image Description"
+        style="height: 280px; object-fit: cover;"
        />
    
        <CardBody>
@@ -50,8 +51,9 @@
        class="hover:-un-translate-y-0.5"
       >
        <CardImgTop
-        src="/unsplash/image/500x280/jason-goodman-bzqU01v-G54-unsplash.jpg"
+        src="/unsplash/image/500x280/hobby.jpg"
         alt="Image Description"
+        style="height: 280px; object-fit: cover;"
        />
    
        <CardBody>
@@ -80,8 +82,9 @@
        class="hover:-un-translate-y-0.5"
       >
        <CardImgTop
-        src="/unsplash/image/500x280/arlington-research-Kz8nHVg_tGI-unsplash.jpg"
+        src="/unsplash/image/500x280/dream.jpg"
         alt="Image Description"
+        style="height: 280px; object-fit: cover;"
        />
    
        <CardBody>
