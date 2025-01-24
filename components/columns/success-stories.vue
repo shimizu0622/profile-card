@@ -43,7 +43,7 @@
                    <CardLink
                        icon="bi:chevron-right"
                        icon-end
-                       to="/"
+                       to="/introduction/next"
                        stretched-link
                    >
                        Read story

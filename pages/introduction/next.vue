@@ -1,42 +1,24 @@
 <template>
   <div class="container mx-auto px-4 py-8">
     <div class="bg-white rounded-lg shadow-lg p-6">
-      <h1 class="text-3xl font-bold mb-5">過去</h1>
-
-      <section class="mb-8">
-        <h2 class="text-2xl font-semibold mb-4">小学生</h2>          
-              <p>ああああああああああああああああ</p>   
-      </section>
-
-      <section class="mt-3">
-        <h2 class="text-2xl font-semibold mb-2">★市場予測</h2>
-        <div class="bg-gray-50 p-2 rounded-lg">
-          <ul class="space-y-3">
-            <li>
-              <span class="font-semibold">2025年までの市場規模：</span>
-              <span class="text-blue-600">約2兆円規模に成長</span>
-            </li>
-            <li>
-              <span class="font-semibold">主要成長分野：</span>
-              <span>物流、農業、インフラ点検、防災</span>
-            </li>
-            <li>
-              <span class="font-semibold">技術革新：</span>
-              <span>AI搭載による自律飛行、バッテリー性能向上</span>
-            </li>
-          </ul>
-        </div>
-      </section>
-
+      <h2 class="text-3xl font-bold mb-2">今後</h2>
       <section>
           <div class="bg-green-50 p-2 rounded-lg">
-            <h2 class="font-semibold text-lg mb-2">★期待される効果</h2>
-            <ul class="list-disc pl-5 space-y-2">
-              <li>人手不足解消</li>
-              <li>作業効率の向上</li>
-              <li>新規ビジネスの創出</li>
-              <li>地域社会の活性化</li>
-            </ul>
+            <h3 class="font-semibold text-lg mb-2">私がやりたいこと</h3>
+            <p>
+            私が思い描く理想は、ドローンで人を救う活動をすることです。
+            近年IT化が急速に普及しています。それに伴い、ドローンの普及も注目され、
+            毎年ドローン市場が高騰してることから今後の期待と希望を持っていると考えています。<br />
+            では、具体的にどういう活動をしていくのか。<br />
+            私が考えるのは、全国のコンビニにドローンを設置し、警察や救急隊に通報と同時にドローンがいち早く現場に到着し、
+            状況把握および、迅速な対応につながると思っています。なお、ドローンにはAEDを搭載し、心臓マッサージが必要で
+            あれば、近くのAEDを取りに行かなくても、ドローンが持ってきてくれる、そういったサービスを提供し、
+            一人でも多くの命を助けられるようにしたいのが私が実現したい内容です。
+            また、最近では日本で地震等の自然災害が多発しています。今後30年以内に起こるとされている、南海トラフ地震にも
+            このドローンを活用したいと思っています。主に、迅速な状況確認及び救助者の捜索・離島や災害の影響で孤立した地域への
+            物流供給などを行いたいと思っています。
+            ドローンを活用することで、今まで以上に迅速な対応が可能になると考えています。
+            </p>
           </div>
       </section>
     </div>
