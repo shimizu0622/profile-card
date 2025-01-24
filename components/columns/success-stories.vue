@@ -20,7 +20,7 @@
                    <CardLink
                        icon="bi:chevron-right"
                        icon-end
-                       to="/"
+                       to="/introduction/past"
                        stretched-link
                    >
                        Read story

@@ -1,36 +1,11 @@
 <template>
   <div class="container mx-auto px-4 py-8">
     <div class="bg-white rounded-lg shadow-lg p-6">
-      <h1 class="text-3xl font-bold mb-5">ドローンの将来性</h1>
+      <h1 class="text-3xl font-bold mb-5">過去</h1>
 
       <section class="mb-8">
-        <h2 class="text-2xl font-semibold mb-4">★ドローン需要の拡大</h2>
-        <ul class="space-y-3">
-          <li class="flex items-start">
-            <div>
-              <h4 class="font-semibold">物流・配送革新</h4>
-              <p>ラストマイル配送の効率化、緊急物資の輸送、離島への配送サービス</p>
-            </div>
-          </li>
-          <li class="flex items-start">
-            <div>
-              <h4 class="font-semibold">インフラ点検</h4>
-              <p>橋梁、送電線、ソーラーパネルなどの効率的な点検・保守</p>
-            </div>
-          </li>
-          <li class="flex items-start">
-            <div>
-              <h4 class="font-semibold">農業分野</h4>
-              <p>農薬散布、作物モニタリング、生育状況の分析による効率的な農業支援</p>
-            </div>
-          </li>
-          <li class="flex items-start">
-            <div>
-              <h4 class="font-semibold">災害時の対応</h4>
-              <p>迅速な状況把握、アクセス困難な場所での対応、救助活動の支援、リアルタイムの情報共有</p>
-            </div>
-          </li>
-        </ul>
+        <h2 class="text-2xl font-semibold mb-4">小学生</h2>          
+              <p>ああああああああああああああああ</p>   
       </section>
 
       <section class="mt-3">

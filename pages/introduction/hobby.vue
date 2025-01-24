@@ -28,4 +28,5 @@
       </div>
     </div>
   </div>
+  <button type="button" class="btn btn-link" to="/index">Back ></button>
 </template>

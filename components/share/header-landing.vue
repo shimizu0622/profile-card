@@ -1,7 +1,7 @@
 <template>
     <Navbar expand="lg" background-color="white">
         <Container>
-            <NavbarBrand href="/" aria-label="use bootstrap">
+            <NavbarBrand href="/" aria-label="My portforio">
                 <img src="~/assets/img/logo1.svg" height="30" alt="Logo" />
             </NavbarBrand>
             <NavbarToggler />
