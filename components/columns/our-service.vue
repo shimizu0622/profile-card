@@ -39,7 +39,7 @@
          to="/introduction/self"
          stretched-link
         >
-         Learn more
+         Profile
         </CardLink>
        </CardFooter>
       </Card>
@@ -70,7 +70,7 @@
          to="/introduction/hobby"
          stretched-link
         >
-         Learn more
+         Hobby
         </CardLink>
        </CardFooter>
       </Card>
@@ -103,7 +103,7 @@
          to="/introduction/future"
          stretched-link
         >
-         Learn more
+         Future
         </CardLink>
        </CardFooter>
       </Card>

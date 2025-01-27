@@ -1,3 +1,11 @@
+<script setup lang="ts">
+definePageMeta({
+  layout: 'black',
+  title: 'Profile',
+  description: 'Quickly get a project started with any of our examples ranging from using parts of the framework to custom components and layouts.'
+})
+</script>
+
 <template>
   <div class="container mt-5">
     <div class="card">
