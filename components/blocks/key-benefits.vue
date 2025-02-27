@@ -24,7 +24,7 @@
                    </CardBody>
                    <CardFooter>
                        <CardLink stretched-link to="/introduction/drone">
-                           Browse tools
+                           Drone page
                            <BIcon margin="s-1" small icon="bi:chevron-right" />
                        </CardLink>
                    </CardFooter>

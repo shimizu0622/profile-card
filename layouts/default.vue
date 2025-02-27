@@ -9,11 +9,7 @@
     src="route://meta"
     path="navigation"
    >
-    <Sidebar
-     id="sidebar"
-     active-background-color="teal-700"
-     :src="`app-config://usebootstrap/navigations/${navigation.data || 'default'}`"
-    />
+    
    </ViewState>
   </template>
   <template #end>
